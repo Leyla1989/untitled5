@@ -1,7 +1,7 @@
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         int initialBalance = 100;
-        int addend = 300;
+        int addend = 1100;
 
         int bonus = 0;
         if (addend > 1000) {
@@ -13,3 +13,4 @@ public class Main {
         System.out.println("Бонус: " + bonus);
     }
 }
+
